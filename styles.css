@@ -1,0 +1,10 @@
+.first-div{
+}
+
+.dice{
+  display: inline-block;
+  text-align: center;
+}
+body{
+  background-color: grey;
+}
